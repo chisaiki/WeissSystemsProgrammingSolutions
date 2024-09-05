@@ -1,0 +1,15 @@
+Readthemanpagefor chmod and write octal expressions that repre
+sent the following permissions.
+ (a) Owner can read and write; group can write but not read;
+ and others can read.
+
+ A: 624
+
+ (b) Everyone can execute, and the owner can read and write.
+
+ A: 711
+
+ (c) The owner can read; the group can read, and others can’t
+ do anything.
+
+ A: 440
