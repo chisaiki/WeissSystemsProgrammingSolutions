@@ -7,3 +7,5 @@ Through the Early Access program, you can get e-copies of completed
 chapters.
 
 ---------------WORK IN PROGRESS---------------
+
+This repo exists to try to recreate the warm classroom setting Professor Weiss has always provided for his students. It is the hope of this repo, to provide you with a guiding hand on how to approach every problem and provide you with a potential solution to follow so you do not feel alone in your learning journey. 
